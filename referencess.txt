@@ -1,0 +1,9 @@
+Developed based on this repository https://github.com/asarsembayev/audio_classifier
+
+Using dataset "mfcc_spec_features.csv" obtained based on features extracted from .wav files from the recordings folder
+
+Feature extraction is implemented using the librosa library
+
+Feature_extractor extracts attributes from the specified ones .wav files in the specified directory
+
+The model architecture is derived from torch "from torch import nn"

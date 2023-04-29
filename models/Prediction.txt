@@ -1,0 +1,8 @@
+Loss for modelAdam:
+Test Loss: 0.2026
+
+Loss for modelRMSprop:
+Test Loss: 165063.2500
+
+Loss for modelAdagrad:
+Test Loss: 186121.7031
